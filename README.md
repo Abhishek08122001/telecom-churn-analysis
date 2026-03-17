@@ -32,3 +32,11 @@ An interactive dashboard was created in Power BI to visualize churn patterns.
 
 ## Dashboard Preview
 ![Dashboard](images/Dashboard_Preview.jpg)
+
+## Key Insights
+
+- Overall customer churn rate is approximately 20%.
+- Churn rate across telecom partners is relatively similar, indicating no major difference in customer retention performance.
+- Data usage level and engagement level show minimal variation in churn rate, suggesting churn may not be strongly influenced by usage patterns in this dataset.
+- Geographic analysis shows small variations in churn rates across states, with the top 10 states having churn rates slightly above the overall average.
+- Customer churn appears to be relatively evenly distributed across gender and age groups.
