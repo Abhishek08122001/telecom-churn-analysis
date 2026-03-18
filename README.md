@@ -4,6 +4,12 @@
 This project analyzes telecom customer churn using SQL and Power BI. 
 The objective is to identify patterns in customer behavior and understand factors associated with churn.
 
+## Dataset
+
+The dataset used for this analysis was obtained from Kaggle and contains customer-level telecom usage and churn information.
+
+Dataset Link: https://www.kaggle.com/datasets/suraj520/telecom-churn-dataset
+
 ## Tools Used
 - SQL (MySQL)
 - Power BI
